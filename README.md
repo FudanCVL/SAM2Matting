@@ -122,3 +122,17 @@ python interactive_sam2.py (point by default)
 python interactive_sam3.py (text by default)
 ```
 
+
+## 📚 Acknowledgements & Citation
+
+We are inspired by the following excellent works: [SAM2](https://github.com/facebookresearch/sam2), [SAM3](https://github.com/facebookresearch/sam3), [MatAnyone](https://github.com/pq-yang/MatAnyone), and many other not listed.
+
+If you find SAM2Matting useful in your research, please consider citing:
+
+```bibtex
+@inproceedings{shen2026sam2matting,
+  title={SAM2Matting: Generalized Image and Video Matting},
+  author={Shen, Ruiqi and Jie, Guangquan and Liu, Chang and Ding, Henghui},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  year={2026}
+}
