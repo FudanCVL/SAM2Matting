@@ -18,7 +18,7 @@ SAM2Matting: Generalized Image and Video Matting
 </p>
 
 <p align="center">
-  <a href="https://YOUR_DOMAIN.com/"><img src="https://img.shields.io/badge/Project-Page-2563eb?style=flat&logo=github&logoColor=white" alt="Project Page"></a>
+  <a href="https://henghuiding.com/SAM2Matting/"><img src="https://img.shields.io/badge/Project-Page-2563eb?style=flat&logo=github&logoColor=white" alt="Project Page"></a>
   <a href="https://arxiv.org/abs/TODO_ARXIV_ID"><img src="https://img.shields.io/badge/arXiv-TODO-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="arXiv"></a>
   <a href="https://huggingface.co/YOUR_ORG/SAM2Matting"><img src="https://img.shields.io/badge/Models-Hugging%20Face-ffd21e?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face Models"></a>
 </p>
@@ -51,7 +51,6 @@ SAM2Matting: Generalized Image and Video Matting
 - ✅ Release checkpoints of different variants.
 - ✅ Release inference code and interactive demo.
 - ⬜ Release training code.
-  
 
 ## 🧠 Checkpoints
 We provide three variants of SAM2Matting based on different VOS trackers.
