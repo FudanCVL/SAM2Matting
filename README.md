@@ -42,7 +42,7 @@ SAM2Matting: Generalized Image and Video Matting
 ## ✨ Highlights
 
 - **Decoupled design** — VOS tracker for temporal consistency + ROI Detection & Progressive Matting for fine details
-- **Image-only training, video SOTA** — Strong zero-shot video matting without costly (and often narrowly-scoped) video matting datasets
+- **Image-only training, video SOTA** — Strong zero-shot video matting without costly video matting datasets
 - **Diverse prompts** — Masks, points, boxes, text
 - **Open-world generalization** — Humans, animals, anime, translucent objects, rapid-motion scenes
 
