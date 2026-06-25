@@ -65,15 +65,15 @@ We provide three variants of SAM2Matting based on different VOS trackers.
   <tbody>
     <tr>
       <td style="vertical-align: middle;">SAM2.1-T</td>
-      <td style="vertical-align: middle;"><a href="TODO_HF_LINK_T"><img src="https://img.shields.io/badge/HF-SAM2.1--T-ffd21e?style=flat&logo=huggingface&logoColor=white" style="vertical-align: middle;"></a></td>
+      <td style="vertical-align: middle;"><a href="https://huggingface.co/FudanCVL/SAM2Matting/blob/main/checkpoints/SAM2Matting-SAM2.1Tiny.pt"><img src="https://img.shields.io/badge/HF-SAM2.1--T-ffd21e?style=flat&logo=huggingface&logoColor=white" style="vertical-align: middle;"></a></td>
     </tr>
     <tr>
       <td style="vertical-align: middle;">SAM2.1-B+</td>
-      <td style="vertical-align: middle;"><a href="TODO_HF_LINK_BP"><img src="https://img.shields.io/badge/HF-SAM2.1--B+-ffd21e?style=flat&logo=huggingface&logoColor=white" style="vertical-align: middle;"></a></td>
+      <td style="vertical-align: middle;"><a href="https://huggingface.co/FudanCVL/SAM2Matting/blob/main/checkpoints/SAM2Matting-SAM2.1Base%2B.pt"><img src="https://img.shields.io/badge/HF-SAM2.1--B+-ffd21e?style=flat&logo=huggingface&logoColor=white" style="vertical-align: middle;"></a></td>
     </tr>
     <tr>
       <td style="vertical-align: middle;">SAM3</td>
-      <td style="vertical-align: middle;"><a href="TODO_HF_LINK_SAM3"><img src="https://img.shields.io/badge/HF-SAM3-ffd21e?style=flat&logo=huggingface&logoColor=white" style="vertical-align: middle;"></a></td>
+      <td style="vertical-align: middle;"><a href="https://huggingface.co/FudanCVL/SAM2Matting/blob/main/checkpoints/SAM2Matting-SAM3.pt"><img src="https://img.shields.io/badge/HF-SAM3-ffd21e?style=flat&logo=huggingface&logoColor=white" style="vertical-align: middle;"></a></td>
     </tr>
   </tbody>
 </table>
