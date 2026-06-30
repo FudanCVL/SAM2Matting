@@ -92,7 +92,6 @@ conda activate sam2matting
 
 # install required packages
 pip install -r requirements.txt
-pip install -e .
 ```
 
 ## 🚀 Inference

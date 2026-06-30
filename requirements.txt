@@ -8,15 +8,15 @@ hydra-core
 iopath
 pillow
 submitit
-opencv-python
+opencv-python-headless
 matplotlib
 fvcore
 pandas
 scikit-image
-mmcv
 tensorboard
 timm
 loguru
 einops
 ftfy
 regex
+psutil
